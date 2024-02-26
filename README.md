@@ -3,7 +3,7 @@
 - Creator : Marghost
 - Email : marghost[a]protonmail.com
 - Website : https://thegeekghost.com
-- Project's Github : https://github.com/marghost/**************
+- Project's Github : https://github.com/marghost/custom_concrete_dyeing
 
 ## Description
 
@@ -14,7 +14,7 @@ This datapack dont need any more configuration than to drop it in the datapack f
 Tested on minecraft java version **1.20.4**.
 
 ## Installation
-- Download the zip file named custom_concrete_dyeing-1.0.0.zip from the project release page : https://github.com/marghost/******************
+- Download the zip file named custom_concrete_dyeing-1.0.0.zip from the project release page : https://github.com/marghost/custom_concrete_dyeing/releases/download/1.0.0/custom_concrete_dyeing-1.0.0.zip
 - Drop custom_concrete_dyeing-1.0.0.zip in the .\world\datapack\ directory of your server
 - Reboot your server or run the /reload command
 
