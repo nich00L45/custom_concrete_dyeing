@@ -20,7 +20,7 @@ Tested on minecraft java version **1.20.4**.
 
 ## Credit
 
-This datapack is inspired from the universal dyeing terracotta on vanillatweaks.net
+This datapack is inspired by the universal dyeing terracotta from vanillatweaks.net
 
 ## License
 
