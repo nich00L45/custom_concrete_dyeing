@@ -24,4 +24,4 @@ This datapack is inspired from the universal dyeing terracotta on vanillatweaks.
 
 ## License
 
-[GNU GENERAL PUBLIC LICENSE v3](https://github.com/marghost/localised_wither_remover/blob/main/LICENSE)
+[GNU GENERAL PUBLIC LICENSE v3](https://github.com/marghost/custom_concrete_dyeing/blob/main/LICENSE)
