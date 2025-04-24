@@ -24,7 +24,7 @@
                 "minecraft:black_concrete"
             ],
         "O": [
-            "concrete_dyeing:dyes/brown_dye"
+            "minecraft:brown_dye"
         ]
     },
     "result": {
