@@ -6,7 +6,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "concrete_dyeing:concrete"
+                        "items": "concrete_dyeing:concrete"
                     }
                 ]
             }
@@ -16,7 +16,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "concrete_dyeing:dyes"
+                        "items": "concrete_dyeing:dyes"
                     }
                 ]
             }
