@@ -24,7 +24,7 @@
                 "minecraft:black_concrete"
             ],
         "O": [
-            "concrete_dyeing:dyes/blue_dye"
+            "#concrete_dyeing:dyes/blue_dye"
         ]
     },
     "result": {
